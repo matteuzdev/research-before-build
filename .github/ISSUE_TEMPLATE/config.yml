@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://github.com/matteuzdev/research-before-build/security
+    about: Please use GitHub security reporting for sensitive vulnerabilities when available.
